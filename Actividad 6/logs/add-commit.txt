@@ -1,0 +1,5 @@
+$ git add README.md
+$ git commit -m "Commit inicial con README.md"
+[main (root-commit) a16e562] Commit inicial con README.md
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md

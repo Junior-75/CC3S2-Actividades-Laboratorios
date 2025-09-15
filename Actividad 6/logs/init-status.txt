@@ -1,0 +1,7 @@
+$ git init
+Initialized empty Git repository C:/User/junior/Documents/CC3S2-Actividades-Laboratorios/.git/
+
+$ git status
+On branch main
+No commits yet
+nothing to commit (create/copy files and use "git add" to track)

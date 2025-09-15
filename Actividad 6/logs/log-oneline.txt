@@ -1,0 +1,11 @@
+3fced8e (HEAD -> main, origin/main, origin/HEAD) HTTP 1.1
+b66786d HTTP
+8d7eb9c Actividad 2
+0e11053 fundamentos practicos
+c0c948b estrategias de despliegue
+1b798b2 evolucion a devops
+ec01659 principios y beneficios de devops
+dda4c23 ciclo tradicional y silos
+2cf45a3 Cascada vs devops
+42a5831 Estructura de actividad 1
+a4f5800 Initial commit
