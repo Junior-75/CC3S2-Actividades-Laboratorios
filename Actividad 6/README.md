@@ -13,44 +13,44 @@ El objetivo principal fue **aprender el flujo de trabajo básico con Git** y dej
 
 ### 1️ Verificación de instalación
 Se comprobó la versión instalada de Git.  
-📄 Evidencia: [`logs/git-version.txt`](logs/git-version.txt)
+ Evidencia: [`logs/git-version.txt`](logs/git-version.txt)
 
 ---
 
 ### 2️ Configuración del usuario
 Se configuró el nombre y correo electrónico para asociar los commits al autor.  
-📄 Evidencia: [`logs/config.txt`](logs/config.txt)
+ Evidencia: [`logs/config.txt`](logs/config.txt)
 
 ---
 
 ### 3️ Inicialización de un repositorio
 Se creó un nuevo repositorio en la carpeta de trabajo y se verificó su estado inicial.  
-📄 Evidencia: [`logs/init-status.txt`](logs/init-status.txt)
+ Evidencia: [`logs/init-status.txt`](logs/init-status.txt)
 
 ---
 
 ### 4️ Creación de commits
 Se añadió un archivo (`README.md`) y se registraron cambios con mensajes descriptivos.  
-📄 Evidencia: [`logs/add-commit.txt`](logs/add-commit.txt)
+ Evidencia: [`logs/add-commit.txt`](logs/add-commit.txt)
 
 ---
 
 ### 5️ Inspección del historial
 Se listó el historial de confirmaciones en formato resumido con `git log --oneline`.  
-📄 Evidencia: [`logs/log-oneline.txt`](logs/log-oneline.txt)
+ Evidencia: [`logs/log-oneline.txt`](logs/log-oneline.txt)
 
 ---
 
 ### 6️ Trabajo con ramas
 Se crearon ramas nuevas, se listaron y se verificó el estado de la rama actual.  
-📄 Evidencia: [`logs/branches.txt`](logs/branches.txt)
+ Evidencia: [`logs/branches.txt`](logs/branches.txt)
 
 ---
 
 ### 7️ Fusión y resolución de conflictos
 Se intentó fusionar la rama `feature/advanced-feature` en `main`, lo que generó un conflicto.  
 El conflicto se resolvió manualmente en el archivo `main.py`.  
-📄 Evidencia: [`logs/merge-o-conflicto.txt`](logs/merge-o-conflicto.txt)
+ Evidencia: [`logs/merge-o-conflicto.txt`](logs/merge-o-conflicto.txt)
 
 ---
 
